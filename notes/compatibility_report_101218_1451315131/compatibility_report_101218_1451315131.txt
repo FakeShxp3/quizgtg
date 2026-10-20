@@ -1,0 +1,10 @@
+Missing audiogroup for sound: 'snd_arrow' - setting to default audio group
+Missing audiogroup for sound: 'snd_explode' - setting to default audio group
+Missing audiogroup for sound: 'snd_hit' - setting to default audio group
+Missing audiogroup for sound: 'snd_happy' - setting to default audio group
+Missing audiogroup for sound: 'snd_pickup' - setting to default audio group
+Missing audiogroup for sound: 'snd_backgroundmusic' - setting to default audio group
+Game speed set to 30
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script '__global_object_depths.gml'
