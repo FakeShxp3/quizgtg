@@ -1,6 +1,7 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
+    {"name":"oGlobal","order":10,"path":"objects/oGlobal/oGlobal.yy",},
     {"name":"compatibility_report_101218_1451315131","order":1,"path":"notes/compatibility_report_101218_1451315131/compatibility_report_101218_1451315131.yy",},
     {"name":"oArrow","order":2,"path":"objects/oArrow/oArrow.yy",},
     {"name":"oBall","order":1,"path":"objects/oBall/oBall.yy",},

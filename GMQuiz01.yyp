@@ -37,6 +37,7 @@
   },
   "name":"GMQuiz01",
   "resources":[
+    {"id":{"name":"oGlobal","path":"objects/oGlobal/oGlobal.yy",},},
     {"id":{"name":"compatibility_report_101218_1451315131","path":"notes/compatibility_report_101218_1451315131/compatibility_report_101218_1451315131.yy",},},
     {"id":{"name":"notes","path":"notes/notes/notes.yy",},},
     {"id":{"name":"oApple","path":"objects/oApple/oApple.yy",},},
